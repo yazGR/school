@@ -1,0 +1,18 @@
+{
+    "navbar":{
+        "home" : "Inicio",
+        "ourSevices": "Servicios",
+        "aboutUs": "Nosotros",
+        "testimonials": "Testimonios",
+        "contactUs": "Contactanos",
+        "lang": {
+            "es" : "Español",
+            "en" : "Ingles",
+            "fr" : "Frances"
+        }
+    },
+    "pages":{
+        "dashboard":{
+        }
+    }
+}

@@ -4,6 +4,9 @@ import Dashboard from './pages/Dashboard';
 import './index.css'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
+import './i18n/config'
+
+
 const router =  createBrowserRouter([
     {
       path: "/",
