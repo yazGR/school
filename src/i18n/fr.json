@@ -13,6 +13,34 @@
     },
     "pages":{
         "dashboard":{
+            "hero": {
+                "title" : "Nous assurons une meilleure éducation pour un monde meilleur",
+                "description" : "Notre programme d’études de pointe est conçu pour donner aux étudiants les connaissances, les compétences et les expériences nécessaires afin d’exceller dans le domaine dynamique de l’éducation.",
+                "button" : "En savoir plus"
+            },
+            "programs" : {
+                "title" : "Ce que nous offrons",
+                "subTitle" : "Nos formations",
+                "graduation" : "Diplôme universitaire",
+                "master" : "Master",
+                "postGraduation" : "Diplôme postuniversitaire"
+            },
+            "about" : {
+                "title" : "À propos de l’université",
+                "subTitle" : "Former les leaders de demain dès aujourd’hui",
+                "description1" : "Embarquez pour un parcours éducatif transformateur grâce aux programmes complets de notre université. Notre programme d’études de pointe est conçu pour donner aux étudiants les connaissances, les compétences et les expériences nécessaires afin d’exceller dans le domaine dynamique de l’éducation.",
+                "description2" : "Axés sur l’innovation, l’apprentissage pratique et le mentorat personnalisé, nos programmes préparent les futurs enseignants à avoir un impact significatif dans les classes, les établissements scolaires et les communautés.",
+                "description3" : "Que vous aspiriez à devenir enseignant, administrateur, conseiller ou leader éducatif, notre large éventail de programmes offre la voie idéale pour atteindre vos objectifs et exploiter pleinement votre potentiel afin de façonner l’avenir de l’éducation."
+            },
+            "campus" : {
+                "title" : "Photos du campus",
+                "subTitle" : "Galerie",
+                "button" : "Découvrez-en plus"
+            },
+            "testimonials" : {
+                "title" : "Ce que disent nos étudiants",
+                "subTitle" : "Témoignages"
+            }
         }
     }
 }

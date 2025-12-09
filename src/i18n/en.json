@@ -13,6 +13,34 @@
     },
     "pages":{
         "dashboard":{
+            "hero": {
+                "title" : "We Ensure better education for a better world",
+                "description" : "Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excel in the dynamic field of education",
+                "button" : "See more here"
+            },
+            "programs" : {
+                "title" : "What We Offer",
+                "subTitle" : "Our Programs",
+                "graduation" : "Graduation Degree",
+                "master" : "Master Degree",
+                "postGraduation" : "Post Graduation Degree"
+            },
+            "about" : {
+                "title" : "ABOUT UNIVERSITY",
+                "subTitle" : "Nurturing Tomorrow's Leader Today",
+                "description1" : "Embark on a transformative educational journey with our university's comprehensive education programs. Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excel in the dynamic field of education.",
+                "description2" : "With a focus on innovation, hands-on learning, and personalized mentorship, our programs prepare aspiring educators to make a meaningful impact in classrooms, schools, and communities.",
+                "description3" : "Whether you aspire to become a teacher, administrator, counselor, or educational leader, our diverse range of programs offers the perfect pathway to achieve your goals and unlock your full potential in shaping the future of education."
+            },
+            "campus" : {
+                "title" : "Campus Photos",
+                "subTitle" : "Gallery",
+                "button" : "See more here"
+            },
+            "testimonials" : {
+                "title" : "What Our Students Say",
+                "subTitle" : "Testimonials"
+            }
         }
     }
 }

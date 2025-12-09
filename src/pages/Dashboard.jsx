@@ -7,17 +7,20 @@ import About from '../components/About/About'
 import Campus from '../components/Campus/Campus'
 import Testimonials from '../components/Testimonials/Testimonials'
 import Contact from '../components/Conctac/Contact'
+import { useTranslation } from 'react-i18next'
 
 const Dashboard = () => {
+  const { t } = useTranslation()
+  
   return (
     <>
         <Layout>
             <Hero/>
             <div class="pl-[10%]! pr-[10%]!">
-            <Title subTitle="Our Programs" title="What We Offer" />
+            <Title subTitle={ t("pages.dashboard.programs.subTitle") } title={ t("pages.dashboard.programs.title") } />
             <Programs />
             <About />
-            <Title subTitle="Gallery" title="Campus Photos" />
+            <Title subTitle={ t("pages.dashboard.campus.subTitle") } title={ t("pages.dashboard.campus.title") } />
             <Campus />
             <Title subTitle="Testimonials" title="What Our Students Say" />
             <Testimonials />
