@@ -1,12 +1,15 @@
 import React from 'react'
+import { useTranslation } from 'react-i18next'
 
 const Footer = () => {
+  const { t } = useTranslation()
+
   return (
     <div class="my-2.5! mx-auto! flex items-center justify-between border-t border-solid border-gray-500 py-3.5! px-0!">
-      <p>© 2024 Edusity. All rights reserved.</p>
+      <p>{ t("pages.dashboard.footer.rightsReserved") }</p>
       <ul>
-        <li class="list-none inline-block ml-5!">Terms of Services</li>
-        <li class="list-none inline-block ml-5!">Privacy Policy</li>
+        <li class="list-none inline-block ml-5!">{ t("pages.dashboard.footer.termsServices") }</li>
+        <li class="list-none inline-block ml-5!">{ t("pages.dashboard.footer.privacyPolicy") }</li>
       </ul>
     </div>
   )

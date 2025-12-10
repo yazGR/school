@@ -39,8 +39,27 @@
             },
             "testimonials" : {
                 "title" : "Lo que dicen nuestros estudiantes",
-                "subTitle" : "Testimonios",
-                "name" : ""
+                "subTitle" : "Testimonios"
+            },
+            "contact" : {
+                "title" : "Ponte en contacto",
+                "subTitle" : "Contáctanos",
+                "description1" : "Envíanos un mensaje",
+                "description2" : "No dudes en comunicarte a través del formulario de contacto o consultar nuestra información de contacto más abajo. Tus comentarios, preguntas y sugerencias son importantes para nosotros, ya que nos esforzamos por brindar un servicio excepcional a nuestra comunidad universitaria.",
+                "email" : "Contact@GreatStack.dev",
+                "phone" : "+1 123-456-7890",
+                "address" : "77 Massachusetts Ave, Cambridge, MA 02139",
+                "form" : {
+                    "name" : "Nombre",
+                    "phoneNumber" : "Numero telefonico",
+                    "message" : "Escribe tu mensaje aqui",
+                    "button" : "Enviar"
+                }
+            },
+            "footer" : {
+                "rightsReserved" : "© 2024 Multi. Todos los derechos reservados.",
+                "termsServices" : "Terminos de servicios",
+                "privacyPolicy" : "Política de privacidad"
             }
         }
     }

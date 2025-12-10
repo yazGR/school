@@ -22,9 +22,9 @@ const Dashboard = () => {
             <About />
             <Title subTitle={ t("pages.dashboard.campus.subTitle") } title={ t("pages.dashboard.campus.title") } />
             <Campus />
-            <Title subTitle="Testimonials" title="What Our Students Say" />
+            <Title subTitle={ t("pages.dashboard.testimonials.subTitle") } title={ t("pages.dashboard.testimonials.title") } />
             <Testimonials />
-            <Title subTitle="Contact Us" title="Get in Touch" />
+            <Title subTitle={ t("pages.dashboard.contact.subTitle") } title={ t("pages.dashboard.contact.title") } />
             <Contact />
             </div>
         </Layout>

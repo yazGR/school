@@ -40,6 +40,26 @@
             "testimonials" : {
                 "title" : "What Our Students Say",
                 "subTitle" : "Testimonials"
+            },
+            "contact" : {
+                "title" : "Get in Touch",
+                "subTitle" : "Contact Us",
+                "description1" : "Send us a message",
+                "description2" : "Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our university community.",
+                "email" : "Contact@GreatStack.dev",
+                "phone" : "+1 123-456-7890",
+                "address" : "77 Massachusetts Ave, Cambridge, MA 02139",
+                "form" : {
+                    "name" : "Your name",
+                    "phoneNumber" : "Phone number",
+                    "message" : "Write your messages here",
+                    "button" : "Submit now"
+                }
+            },
+            "footer" : {
+                "rightsReserved" : "© 2024 Multi. All rights reserved.",
+                "termsServices" : "Terms of Services",
+                "privacyPolicy" : "Privacy Policy"
             }
         }
     }
